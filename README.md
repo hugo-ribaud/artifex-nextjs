@@ -81,7 +81,7 @@ Make sure you have the following installed on your machine:
 Install the project dependencies using npm:
 
 ```bash
-npm insall
+npm install
 ```
 
 then run
