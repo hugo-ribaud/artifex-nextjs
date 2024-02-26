@@ -81,6 +81,12 @@ Make sure you have the following installed on your machine:
 Install the project dependencies using npm:
 
 ```bash
+npm insall
+```
+
+then run
+
+```bash
 npm run dev
 ```
 
